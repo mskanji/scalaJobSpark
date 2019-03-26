@@ -1,11 +1,15 @@
 # scalaJobSpark
 Spark Job for quering SNCF DATA 
 
-The main goal of this project is to:  
+The main goal of this project is to:            
 
-become familiar with object-oriented programming /n 
-mannage large Data and quering it using spark data frame & data set API. /n
-testing scala code with J_unit test technique./n 
+
+become familiar with object-oriented programming         
+
+mannage large Data and quering it using spark data frame & data set API.       
+
+testing scala code with J_unit test technique.        
+
 
 
 in this project we determinated: // 
